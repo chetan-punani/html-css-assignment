@@ -1,0 +1,127 @@
+.text-on-image{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 20px;
+}
+
+#img-on-text-first{
+    font-size: 30px;
+}
+
+.vr{
+    color: black;
+}
+
+.date-explore{
+    color: black;
+    font-size: 10px;
+    margin-left: 14%;
+    padding-left: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: #f8f8ff9c;
+}
+
+.card-img-top{
+    width: 5rem;
+    height: 5rem;
+}
+
+.cardtab-body{
+    width: 25rem;
+    height: 25rem;
+}
+
+.cardtab-img{
+    width: 25rem;
+    height: 15rem;
+}
+
+.cardtab-text{
+    font-size: 0.8rem;
+}
+
+.cardtab-img-small{
+    width: 2rem;
+    height: 2rem;
+}
+
+.blog-img{
+    border-radius: 1rem;
+}
+
+#blog-img1{
+    width: 45rem;
+    height: 30rem;
+    position: absolute;
+}
+
+.blog-img2{
+    width: 45rem;
+    height: 15rem;
+    position: absolute;
+    border-radius: 1rem;
+}
+
+.text-on-blog-img{
+    position: relative;
+    font-size: 50px;
+    width: 45rem;
+    height: 30rem;
+    padding-left: 20%;
+    color: white;
+    border-radius: 1rem;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.text-on-blog-img2{
+    position: relative;
+    font-size: 30px;
+    width: 43.5rem;
+    height: 15rem;
+    margin-left: 0.7rem;
+    padding-left: 30%;
+    color: white;
+    border-radius: 1rem;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.text-on-blog-img3{
+    position: relative;
+    font-size: 30px;
+    width: 43.5rem;
+    height: 14rem;
+    margin-top: 1rem;
+    margin-left: 0.7rem;
+    padding-left: 25%;
+    color: white;
+    border-radius: 1rem;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.double-quote{
+    color: #e1e8f8;
+    padding-top: 0.3rem;
+    padding-right: 1rem;
+}
+
+.footer{
+    background-color: #e1e8f8;
+    height: 6rem;
+    margin: 3rem 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 1rem;
+}
+
+.nav-link.active{
+    color: yellow;
+    background-color:none; 
+    border-color:none;
+    border-bottom: 3px solid yellow;
+}
+
+
